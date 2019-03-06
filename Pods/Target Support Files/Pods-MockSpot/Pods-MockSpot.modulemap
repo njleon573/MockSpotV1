@@ -1,0 +1,6 @@
+framework module Pods_MockSpot {
+  umbrella header "Pods-MockSpot-umbrella.h"
+
+  export *
+  module * { export * }
+}

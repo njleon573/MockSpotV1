@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>607883800310-ckumrh4njedndq19p7t7d8s9nttrp4s6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.607883800310-ckumrh4njedndq19p7t7d8s9nttrp4s6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyARTrnL-GABTvmPLDuJsC-43MQel3BO_nU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>607883800310</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.typepad.nickjleon.MockSpot</string>
+	<key>PROJECT_ID</key>
+	<string>mockspot-d8c94</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mockspot-d8c94.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:607883800310:ios:0877c46eee07d7a4</string>
+	<key>DATABASE_URL</key>
+	<string>https://mockspot-d8c94.firebaseio.com</string>
+</dict>
+</plist>
